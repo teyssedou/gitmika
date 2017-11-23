@@ -77,18 +77,15 @@ p{
 	margin-left: 60px;}
 #texte{
 	margin-left: 170px;}
-
 .Experiences{
 	float: right;
 	border-style: double;
 	padding-top: -80px;
-	width: 68%;		
 	border: 5px black solid;
-	margin-top: -305px;
-	overflow: scroll;}
+	margin-top: -305px;}
 
 body{
-	background-color: #54DCE0;
+	background-color: #00000;
 }
 .tete{
 	background-color: #E0931C;
