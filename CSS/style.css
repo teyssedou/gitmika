@@ -7,6 +7,7 @@
 	border-radius: 30%;}
 
 #citation{
+	background-color: #AEE397;
 	border-style: double;
 	width: 65%;
 	height: 80px;
@@ -17,7 +18,9 @@
 	padding-top: 20px;}
 
 #img{
-	float: left;}
+	float: left;
+	width: 200px;
+	margin-left: 50px;}
 
 #fond{
 	margin-bottom: 10px;
@@ -83,3 +86,10 @@ p{
 	border: 5px black solid;
 	margin-top: -305px;
 	overflow: scroll;}
+
+body{
+	background-color: #54DCE0;
+}
+.tete{
+	background-color: #E0931C;
+}
